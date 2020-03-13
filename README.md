@@ -1,8 +1,8 @@
 ﻿# Mes Projets
-## CV
+## Jeu en Java
 
-Projet de créations d'un site CV 
-05/03/2020
+Projet d'un jeu simple en Java
+13/03/2020
  
 
 
